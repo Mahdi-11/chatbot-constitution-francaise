@@ -1,9 +1,10 @@
 langchain
+langchain_community
 chromadb
 streamlit
 transformers
 torch
-sentence-transformers
+sentence_transformers
 pypdf
 scikit-learn
 sentencepiece
