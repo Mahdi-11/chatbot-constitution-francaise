@@ -1,5 +1,4 @@
 langchain
-langchain_community
 chromadb
 streamlit
 transformers
@@ -10,3 +9,4 @@ scikit-learn
 sentencepiece
 accelerate>=0.26.0
 requests
+langchain_community
